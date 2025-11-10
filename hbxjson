@@ -1,10 +1,20 @@
 //资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
-    "spider": "./spider.jar",
+    "spider": "https://github.com/swhtv/box/raw/refs/heads/main/spider.jar",
     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
+
+
+    {"key": "文采","name": "┃文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1
+    },
+    {"key": "糯米","name": "┃糯米┃秒播","type": 3,"api": "csp_Nmyswv","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1
+    },
+    {"key": "苹果","name": "┃苹果┃IJK","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1
+    },
+
+
         {
             "name": "钵钵鸡(四网通用)",
             "type": 0,
@@ -12,13 +22,7 @@
         }
     ],
     "sites": [
-        {
-            "key": "drpy_js_豆瓣",
-            "name": "导航|小虎斑的口粮",
-            "type": 3,
-            "api": "csp_Douban",
-            "ext": "./json/douban.json"
-        },
+        
         {
             "key": "提醒",
             "api": "csp_Douban2",

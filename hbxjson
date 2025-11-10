@@ -5,7 +5,8 @@
     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
-
+   ],
+    "sites": [
 
     {"key": "文采","name": "┃文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1
     },
@@ -15,33 +16,6 @@
     },
 
 
-        {
-            "name": "钵钵鸡(四网通用)",
-            "type": 0,
-            "url": "切换成你自己的地址"
-        }
-    ],
-    "sites": [
-        
-        {
-            "key": "提醒",
-            "api": "csp_Douban2",
-            "name": "仅用作学习交流使用，请于24小时之内进行清除",
-            "type": 3
-        },
-        {
-            "key": "测试",
-            "name": "应用|更新",
-            "type": 3,
-            "api": "csp_Market",
-            "ext": "aHR0cHM6Ly84OTI0LmtzdG9yZS5zcGFjZS9odWJhbi9tYXJrLmpzb24="
-        },
-        {
-            "key": "设置",
-            "name": "网弹|设置",
-            "type": 3,
-            "api": "csp_HBconfig"
-        },
         {
             "key": "全网",
             "name": "全网|短剧",
@@ -57,13 +31,7 @@
             "type": 3,
             "api": "csp_HBlive"
         },
-        {
-            "key": "静月",
-            "name": "养生|京城",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/养生.js"
-        },
+        
         {
             "key": "网盘虎斑",
             "name": "虎斑|4k网盘",
